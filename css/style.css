@@ -1,0 +1,20 @@
+body{
+  color: #F0D9FF;
+
+}
+
+#profile-wrapper{
+	text-align: center;
+
+}
+.details{
+	list-style-type:square;
+
+}
+
+.social-links  {
+	list-style-type:circle;
+	display: inline-block;
+
+}
+
